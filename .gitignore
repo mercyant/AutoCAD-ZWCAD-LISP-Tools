@@ -1,0 +1,23 @@
+# Byte-compiled / cached
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Agent temp
+.tmp/
+.cache/
+.agent/tmp/
+tmp/
+
+# Backup files
+*.bak
+*.dwl
+*.dwl2
